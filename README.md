@@ -5,7 +5,7 @@
 <h1 align="center">Cypher</h1>
 
 <p align="center">
-    <em><code> 🥗 healthier eating habits by providing users with a tailored approach to meal planning based on their individual needs, preferences, and goals.🥗 </code></em>
+    <em><code> "Your password, your protection." </code></em>
 </p>
 
 <p align="center">
