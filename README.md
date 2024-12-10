@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="NutriPlanner.jpeg" width="100" />
+</p>
+
 <h1 align="center">Cypher</h1>
 
 <p align="center">
