@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ChixMagnet08">Timtim, Abraham Jerico C.</a><br>
+    <a href="https://github.com/jericotimtim">Timtim, Abraham Jerico C.</a><br>
     IT-2106
 </p>
 
