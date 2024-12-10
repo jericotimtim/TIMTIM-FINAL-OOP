@@ -36,8 +36,7 @@ Many individuals find it challenging to create and maintain secure passwords, of
 
 ## Problem Statement: Chosen SDG
 
-Good Health and Well-Being
-Contribution: Supports better health outcomes by ensuring adherence to medication schedules.
+SDG 16 focuses on promoting peace, justice, and strong institutions by fostering transparent, accountable systems. "Cypher" directly contributes to these goals by enhancing digital security through password strength evaluation.
 
 
 <p>
