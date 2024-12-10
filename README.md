@@ -47,12 +47,12 @@ The project incorporates Object-Oriented Programming (OOP) principles to ensure 
 
 
 ## Features
-Meal Planning:
-o   "The application generates a daily meal plan, including breakfast, lunch, dinner, and snacks, tailored to the user’s health goals and dietary preferences."
-Nutritional Tracking:
-o   "Users can view a summary of their total daily calorie intake and macronutrient distribution, helping them stay on track."
+Password Breach Check:
+o   "Integrated with the "Have I Been Pwned" API to check if a password has been part of a breach."
+Password Suggestions:
+o   "The program encourages users to create stronger passwords when weaknesses are detected."
 Personalization:
-o   "Users input their age, weight, height, health goal (e.g., weight loss, muscle gain), and dietary preferences to receive customized meal suggestions."
+
 
 
 
