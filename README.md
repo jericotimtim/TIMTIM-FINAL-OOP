@@ -35,12 +35,10 @@ The majority of individuals struggle to generate and keep safe passwords, and th
 ---
 
 ## Problem Statement: Chosen SDG
-
-SDG 16 focuses on promoting peace, justice, and strong institutions by fostering transparent, accountable systems. "Cypher" directly contributes to these goals by enhancing digital security through password strength evaluation.
-
-
 <p>
-  <img src="sdg.jpg" alt="SDG 3" width="150" />  
+  <img src="sdg.jpg" alt="SDG 15" width="150" />  
+</p>
+SDG 16 focuses on promoting peace, justice, and strong institutions by fostering transparent, accountable systems. "Cypher" directly contributes to these goals by enhancing digital security through password strength evaluation.
 
 ---
 
