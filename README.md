@@ -51,6 +51,8 @@ The project incorporates Object-Oriented Programming (OOP) principles to ensure 
 - Integrated with the "Have I Been Pwned" API to check if a password has been part of a breach.
 2. **Password Suggestions**
 - The program encourages users to create stronger passwords when weaknesses are detected.
+3. **Password Strength Color**
+- The inclusion of the colors red, green, and yellow makes it easier for the user to determine the integrity of their password.
 
 
 
