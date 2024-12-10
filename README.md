@@ -40,7 +40,7 @@ SDG 16 focuses on promoting peace, justice, and strong institutions by fostering
 
 
 <p>
-  <img src="SDG3.jpg" alt="SDG 3" width="150" />  
+  <img src="sdg.jpg" alt="SDG 3" width="150" />  
   <br>
   <em>SDG 3: Supporting the health and well-being of Human.</em>
 </p>
