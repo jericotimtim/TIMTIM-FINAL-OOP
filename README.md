@@ -20,7 +20,7 @@ The majority of individuals struggle to generate and keep safe passwords, and th
 
 ---
 
-## Problem Statement: Chosen SDG
+## Chosen SDG
 <p>
   <img src="sdg.jpg" alt="SDG 16" width="150" />  
 </p>
