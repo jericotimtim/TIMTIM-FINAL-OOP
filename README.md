@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cypherlogo.png" width="200" />
+  <img src="cypherlogo.png" width="300" />
 </p>
 
 <h1 align="center">Cypher</h1>
@@ -13,14 +13,14 @@
     IT-2106
 </p>
 
-##  Project Overview
+##  PROJECT OVERVIEW
 
 The majority of individuals struggle to generate and keep safe passwords, and they frequently choose weak or easily guessable combinations. However, strong passwords are crucial for protecting personal information and online accounts. Cypher is a Java console application designed to help users create stronger, more secure passwords by enforcing essential security standards. By offering an easy and effective way to meet these requirements, Cypher encourages users to adopt better security practices. Aligned with cybersecurity best practices, Cypher empowers users to make informed decisions when setting passwords, significantly reducing the risk of unauthorized access.
 
 
 ---
 
-## Chosen SDG
+## CHOSEN SDG
 <p>
   <img src="sdg.jpg" alt="SDG 16" width="150" />  
 </p>
@@ -28,7 +28,7 @@ SDG 16 focuses on promoting peace, justice, and strong institutions by fostering
 
 ---
 
-## OOP Principles
+## OOP PRINCIPLES
 The project incorporates Object-Oriented Programming (OOP) principles to ensure modularity, reusability, and clear structure.
 
 1. **Encapsulation**  
@@ -46,11 +46,11 @@ The project incorporates Object-Oriented Programming (OOP) principles to ensure 
 ---
 
 
-## Features
-Password Breach Check:
-o   "Integrated with the "Have I Been Pwned" API to check if a password has been part of a breach."
-Password Suggestions:
-o   "The program encourages users to create stronger passwords when weaknesses are detected."
+## FEATURES
+1. **Password Breach Check**
+- Integrated with the "Have I Been Pwned" API to check if a password has been part of a breach.
+2. **Password Suggestions**
+- The program encourages users to create stronger passwords when weaknesses are detected.
 Personalization:
 
 
