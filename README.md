@@ -29,7 +29,7 @@
 
 ##  Project Overview
 
-Many individuals find it challenging to create and maintain secure passwords, often opting for weak or easily guessable combinations. However, strong passwords are crucial for protecting personal information and online accounts. Cypher is a Java console application designed to help users create stronger, more secure passwords by enforcing essential security standards. By offering an easy and effective way to meet these requirements, Cypher encourages users to adopt better security practices. Aligned with cybersecurity best practices, Cypher empowers users to make informed decisions when setting passwords, significantly reducing the risk of unauthorized access.
+The majority of individuals struggle to generate and keep safe passwords, and they frequently choose weak or easily guessable combinations. However, strong passwords are crucial for protecting personal information and online accounts. Cypher is a Java console application designed to help users create stronger, more secure passwords by enforcing essential security standards. By offering an easy and effective way to meet these requirements, Cypher encourages users to adopt better security practices. Aligned with cybersecurity best practices, Cypher empowers users to make informed decisions when setting passwords, significantly reducing the risk of unauthorized access.
 
 
 ---
