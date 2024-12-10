@@ -29,7 +29,7 @@
 
 ##  Project Overview
 
-Many individuals struggle with maintaining a balanced diet tailored to their health goals. Proper meal planning can improve overall well-being but often requires nutrition knowledge and consistent tracking. NutriPlanner is a Java console application designed to help users create personalized meal plans based on their health goals and dietary preferences, promoting healthier habits. NutriPlanner aligns with SDG Good Health and Well-being, encouraging users to make informed nutritional choices and supporting better health outcomes.
+Many individuals find it challenging to create and maintain secure passwords, often opting for weak or easily guessable combinations. However, strong passwords are crucial for protecting personal information and online accounts. Cypher is a Java console application designed to help users create stronger, more secure passwords by enforcing essential security standards. By offering an easy and effective way to meet these requirements, Cypher encourages users to adopt better security practices. Aligned with cybersecurity best practices, Cypher empowers users to make informed decisions when setting passwords, significantly reducing the risk of unauthorized access.
 
 
 ---
